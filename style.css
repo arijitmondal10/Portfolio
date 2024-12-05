@@ -298,7 +298,7 @@ nav a:hover span {
 }
 
 .about-text p {
-  font-size: 16px;
+  font-size: 18px;
   line-height: 25px;
   text-align: center;
 }
@@ -1036,7 +1036,9 @@ form .btn2 {
   .about .content {
     padding: 0;
   }
-
+.about-text p{
+  font-size:16px;
+}
   .about-text {
     text-align: center;
   }
