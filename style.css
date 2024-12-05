@@ -1119,6 +1119,11 @@ form .btn2 {
     font-size: 13px;
     margin-left: 50px;
   }
+.phone-no{
+  font-size: 13px;
+  text-decoration: none;
+  color: rgb(19, 19, 100);
+}
 
   .social-icons {
     padding-left: 70px;
