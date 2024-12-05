@@ -606,6 +606,12 @@ nav a:hover span {
   color: #a40437;
 }
 
+.phone-no{
+  font-size: 18px;
+  text-decoration: none;
+  color: rgb(19, 19, 100);
+}
+
 .contact-right {
   flex-basis: 62%;
 
